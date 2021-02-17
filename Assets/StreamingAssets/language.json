@@ -1,0 +1,161 @@
+{
+  "_meta": {
+    "maxChars": {
+	
+	"explain_1_1": 200,
+	"explain_1_2": 200,
+	"explain_1_3": 200,
+	
+	"explain_2_1": 200,
+	"explain_2_2": 200,
+	"explain_2_3": 200,
+	
+	"explain_3_1": 200,
+	
+	"explain_4_1": 200,
+	
+	"explain_5_1": 200,
+	"explain_5_2": 200,
+	
+	"explain_6_1": 200,
+	"explain_6_2": 200,
+	
+	
+	"explain_7_1": 200,
+	"explain_7_2": 200,
+	"explain_7_3": 200,
+	"explain_7_4": 200,
+	
+	"explain_8_1": 200,
+	"explain_8_2": 200,
+	"explain_8_3": 200,
+	
+	"explain_9_1": 200,
+  
+	"end_of_month": 200,
+	"salary": 200,
+	"loan": 200,
+	"cost": 200,
+	"price": 200,
+	"wood": 200,
+	"coal": 200,
+	"money": 200,
+	"locked": 200,
+	"unlocked": 200,
+	"credit": 200,
+	"credit_period": 200,
+	"months": 200,
+	"lack_of_wood": 200,
+	"lack_of_coal": 200,
+	
+	"description_worker": 200,
+	"description_tree": 200,
+	"description_credit": 200,
+	
+	"credit_instructions": 200,
+	"amount": 200,
+	"amountToReturn": 200,
+	
+	"game_over_text": 200,
+	"tutorial_0": 200,
+	"tutorial_1": 200,
+	"tutorial_2": 200,
+	
+	"tutorial_3": 200,
+	"tutorial_4": 200,
+	"tutorial_5": 200,
+	
+	"tutorial_6": 200,
+	"tutorial_7": 200,
+	
+	"tutorial_collect_resource": 200,
+	
+	"upgrade_0": 200,
+	"upgrade_1": 200,
+	"upgrade_2": 200,
+	"upgrade_3": 200,
+	"upgrade_4": 200,
+	"upgrade_5": 200,
+	"upgrade_6": 200,
+	"upgrade_7": 200
+    }
+  },
+  "en": {
+	"explain_1_1": "Hello, kid! I am the director of the Farm Hero Factory.",
+	"explain_1_2": "Would you help me run the factory and make as much money as you can?",
+	"explain_1_3": "Great! Let me guide you through the process.",
+	
+	"explain_2_1": "Our factory uses trees and coal, which are called resources to produce electricity.",
+	"explain_2_2": "This is where are income comes from. Try to always supply the factory with resources, so it can produce money.",
+	"explain_2_3": "This is where are income comes from. Try to always supply the factory with resources, so it can produce money.",
+	
+	"explain_3_1": "Extending the capacity of the factory with more chimneys means it can produce more money.",
+	
+	"explain_4_1": "We are hiring more factory workers, this way we improve production time and get better income.",
+	
+	"explain_5_1": "We are running low on coal resource, which means we have to increase the price of our final product.",
+	"explain_5_2": "Scarcity of resource means it becomes more expensive to get them, which increases the price of the final product.",
+	
+	"explain_6_1": "We are out of coal resourse, so we have to further increase the price of our product, because of the lack of coal resource.",
+	"explain_6_2": "We are also gonna use only wood for our production from now on, but the consumption of the wood in production should increase.",
+	
+	
+	"explain_7_1": "You have now enough money to buy an upgrade for the factory and increase your income from production.",
+	"explain_7_2": "It's up to you to either upgrade the factory, or save the money.",
+	"explain_7_3": "Saving money allowes you to use them later on more expensive upgrades, or to hire farm workers.",
+	"explain_7_4": "If you want to upgrade the factory click on it to see the available upgrades.",
+	
+	"explain_8_1": "Credits are usually used when something unplanned happens, or if you don't have enough funds to meet your needs.",
+	"explain_8_2": "It is borrower's responsibility to pay it back to the lender, usually with interest.",
+	"explain_8_3": "You should plan your decision to take credit cerfully, because unplanned decisions has risk of losing money.",
+
+	"explain_9_1": "You are now eligable to apply for a credit. Click on the credit button in the left menu, if you want to take credit.",
+	
+	"end_of_month": "End of month",
+	"salary": "Salary",
+	"loan": "Loan",
+	"cost": "Cost",
+	"price": "Price",
+	"wood": "wood",
+	"coal": "coal",
+	"money": "money",
+	"locked": "Locked",
+	"unlocked": "Unlocked",
+	"credit": "Credit",
+	"credit_period": "Credit period",
+	"months": "months",
+	"lack_of_wood": "Factory needs more wood in order to work.",
+	"lack_of_coal": "Factory needs more coal in order to work.",
+	
+	"description_worker": "<b>Worker</b> \n <i>Type: Human resource.</i> \n Usage: Gather wood(resource) and coal(resource).",
+	"description_tree": "<b>Tree</b> \n <i>Type: Natural resource.</i> \n Usage: Used in the production process of the factory. Also used when upgrading the factory.",
+	"description_credit": "You can take a credit from the bank, if you don't have enough savings. The amount of money you should return will be greater, than the one you take.",
+	
+	"credit_instructions": "To change the amount of the credit use up/down buttons. Press 'OK' when you are ready, or close button to cancel the credit.",
+	"amount": "Amount",
+	"amountToReturn": "Amount to return",
+	
+	"game_over_text": "Congratulations! \n You completed the game! \n You finish with: \n",
+	"tutorial_0": "Click on the worker to select him.",
+	"tutorial_1": "Now click on the tree to start cutting.",
+	"tutorial_2": "Wait for the worker to cut off the tree.",
+	
+	"tutorial_3": "Click on worker to select him.",
+	"tutorial_4": "Now click on the coal mine to start mining.",
+	"tutorial_5": "Wait for the coal to pop up.",
+	
+	"tutorial_6": "Our factory uses the woods and coal to produce our product which is where our income comes from.",
+	"tutorial_7": "You can click on the factory to purchase upgrades and improve the production process and the income.",
+	
+	"tutorial_collect_resource": "Mouse over the falling resources to collect them.",
+	
+	"upgrade_0": "Increase the income of the factory.",
+	"upgrade_1": "Decrease production time of the factory.",
+	"upgrade_2": "Increase the income of the factory.",
+	"upgrade_3": "Decrease production time of the factory.",
+	"upgrade_4": "Decrease the woods needed for production.",
+	"upgrade_5": "Decrease the woods needed for production.",
+	"upgrade_6": "<b>Scarcity of resources means more expensive production and increased final product price.</b> Our mines is over, we should increase our product price.",
+	"upgrade_7": "<b>Scarcity of resources means more expensive production and increased final product price.</b> Our mines is over, we should increase our product price."
+  }
+}
